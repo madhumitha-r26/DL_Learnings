@@ -1,6 +1,6 @@
 # DL_Learnings
 
-    Learning deep learning frameworks in developing AI/ML models for career developmnent purposes.
+Learning deep learning frameworks in developing AI/ML models for career developmnent purposes.
 
 + Keras
 + Tensorflow
